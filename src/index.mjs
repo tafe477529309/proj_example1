@@ -5,4 +5,4 @@ console.log("Hello World!..");
 
 console.log("i'm in the middle of typing some code");
 
-console.log(add(20,5));
+console.log(add(10,5));
